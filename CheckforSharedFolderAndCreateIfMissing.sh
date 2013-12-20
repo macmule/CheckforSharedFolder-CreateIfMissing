@@ -22,6 +22,7 @@ else
 	sudo mkdir /Users/Shared/
 	echo "Created /Users/Shared/ directory..."
 	
+	# Give everyone 777 access to /Users/Shared/...
 	sudo chmod -R 777 /Users/Shared/
 	echo "Set permissions to 777 on /Users/Shared/..."
 	
