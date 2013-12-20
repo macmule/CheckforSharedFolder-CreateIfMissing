@@ -3,7 +3,7 @@
 #
 # More information: http://macmule.com/2013/12/20/itunes-error/
 #
-# GitRepo: https://github.com/macmule/DeleteLoginwindowPlistShowInputMenuKey
+# GitRepo: https://github.com/macmule/CheckforSharedFolder-CreateIfMissing/
 #
 # License: http://macmule.com/license/
 #
